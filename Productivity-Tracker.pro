@@ -17,10 +17,10 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     main.cpp \
-    trackerwidget.cpp
+    TrackerWidget/trackerwidget.cpp
 
 HEADERS += \
-    trackerwidget.h
+    TrackerWidget/trackerwidget.h
 
 TRANSLATIONS += \
     Productivity-Tracker_en_US.ts
