@@ -1,4 +1,4 @@
-#include "trackerwidget.h"
+#include "TrackerWidget/trackerwidget.h"
 
 #include <QApplication>
 
