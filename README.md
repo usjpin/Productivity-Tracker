@@ -7,7 +7,7 @@ A neat Qt/C++ Widget that helps you track all sorts of daily activites in a port
 
 Dark Mode | Light Mode
 :--------:|:----------:
-![Dark Mode Widget](https://github.com/kudoichika/Productivity-Tracker/tree/master/Screenshots/DarkTheme) | ![Light Mode Widget](https://github.com/kudoichika/Productivity-Tracker/tree/master/TrackerWidget/Screenshots/LightTheme)
+![Dark Mode Widget](https://github.com/kudoichika/Productivity-Tracker/tree/master/Screenshots/DarkTheme.png) | ![Light Mode Widget](https://github.com/kudoichika/Productivity-Tracker/tree/master/TrackerWidget/Screenshots/LightTheme.png)
 
 ### Build/Deploy
 To use or modify, simply clone the repo and compile build/release using Qt Creator (github releases coming soon). Note: The current code is mainly built for MacOS distributions. However, the .pro file can be modified for Windows and Linux.
