@@ -1,4 +1,4 @@
-# Productivity Tracker Widget · [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/kudoichika/Productivity-Tracker/blob/master/LICENSE)
+# Productivity Tracker Widget · [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/kudoichika/Productivity-Tracker/blob/master/LICENSE.md)
 A neat Qt/C++ Widget that helps you track all sorts of daily activites in a portable, interactive, journal format.
 ### Features
 - Calendar format to easily find past/future records
@@ -14,5 +14,5 @@ To use or modify, simply clone the repo and compile build/release using Qt Creat
 For MacOS package deployment, use the Command Line macdeployqt tool (Tutorial given [here](https://riptutorial.com/qt/example/24344/deploying-on-mac)).
 
 ### License
-This project is copyrighted under the [MIT License](https://github.com/kudoichika/Productivity-Tracker/blob/master/LICENSE).
+This project is copyrighted under the [MIT License](https://github.com/kudoichika/Productivity-Tracker/blob/master/LICENSE.md).
 
